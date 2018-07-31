@@ -74,9 +74,13 @@ Toutes les personnes venues en Jeep repartent les premiers pour se rendre dans l
 
 # Voir le cratère du Bromo par la suite :
 
-Nous étions sur le point de descendre a pied lorsqu'un local nous a proposé de nous amené en moto jusqu'au cratère. En choissisant cette option, nous ne payerions pas les frais d'entrée a la Caldeira de 315000 rouphies par personne. Nous avons négocié 75000 rouphies chacun la descente.
+Après avoir admiré la vue, vous pouvez descendre dans la Caldeira pour voir le cratère du volcan Bromo, qui est toujours en activité pour rappel. 
 
-Il paraît qu'il y a également un passage derrière hôtel restaurant Xxx qui vous permet de passer mais nous ne l'avons pas cherché. Si jamais vous y êtes passé, n'hésitez pas le dire en commentaire pour aider les prochains land seekers.
+Pour cela, vous pouvez redescendre par le même chemin qu'à l'allé jusqu'au village. Ensuite, il faut passer devant l'hôtel Lava Lava (VERIFIER LE NOM) et suivre la route jusqu'à l'entrée de la Caldeira. Il paraît que l'entrée est payante 315000 rouphies par personne (18,60€). Il paraît qu'il y a également un passage derrière hôtel restaurant Xxx (VERIFIER LE NOM) qui vous permet de passer mais nous ne l'avons pas cherché. Si jamais vous y êtes passé, n'hésitez pas le dire en commentaire pour aider les prochains land seekers.
+
+Je dis bien "il paraît" parce que nous ne sommes pas passés par là. Nous étions sur le point de descendre a pied et faire exactement tout le trajet que je viens de décrire ci-dessus lorsqu'un local nous a proposé de nous amené en moto jusqu'au cratère. En choissisant cette option, nous ne payerions pas les frais d'entrée a la Caldeira. Nous avons négocié 75000 rouphies (4,43€) chacun la descente. Ca reste relativement élevé mais la fatigue et la flemme de descendre on eu raison de nous.
+
+En montant au cratère, on vous conseille de vous munir d'une petite écharpe ou quelque chose pour vous proteger la bouche. En effet, si vous avez du vent, l'air peu devenir très difficillement respirable. Cerise sur le gâteau, la visibilité peu être fortement réduite. Si toutes ces mauvaises conditions sont réunis, attendez un peu avant de vous rendre à la Caldeira, le vent peu rapidement tourner en votre avantage.
 
 # Où dormir au village
 
@@ -88,4 +92,5 @@ Nous avons testé deux adresses : Xxx et un hôtel restaurant. Le premier est un
 
 # Combien de temps faut-il rester sur place :
 
-D'après nous, l'idéal est d'y passer une nuit. Après le lever du soleil et la visite du cratère, ilnezt préférable de retourner a Probollingo (on ne sait jamais trop en avance combien de temps ça va prendre), dormir une nuit là-bas et partir avec le premier train le lendemain.
+D'après nous, l'idéal est d'y passer une nuit. Après le lever du soleil et la visite du cratère, il est préférable de retourner a Probollingo, dormir une nuit là-bas et partir avec le premier train le lendemain.
+Tout comme à l'allée, le temps que vous allez mettre entre Ceromo Lawang et Probolingo est indeterminé. 
