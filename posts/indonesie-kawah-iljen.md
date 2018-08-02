@@ -5,11 +5,12 @@ tags:
   - Indonesie
 ---
 
-Kawah Iljen est un volcan a l'Est de Java où il est possible d'observer des flammes bleu la nuit. C'est un spectacle impressionnant qu'on n'a pas l'habitude de voir.
+Kawah Iljen est un autre volcan javanais, situé à l'Est de l'île, tout proche de Bali. Ce volcan a la particularité  d'être atypique, il ne ressemble en rien au volcan de Bromo par exemple. La nuit, lorsque le temps s'y prête, il est possible d'observer des flammes bleu. C'est un spectacle impressionnant qu'on n'a pas l'habitude de voir.
 
-Nicolas Hulot a médiatisé ce volcan et depuis, l'attraction touristique devient de plus en plus importante. D'ailleurs, tous les locaux connaissent le nom de notre ministre.
+Nicolas Hulot a médiatisé ce volcan et depuis, l'attraction touristique devient de plus en plus importante. D'ailleurs, tous les locaux connaissent le nom de notre ministre français.
 
-En plus des lumières bleu, ce qui fait la réputation de ce volcan sont les porteurs de souffres. Ces porteurs portent 90 kilos de souffre depuis le cratère jusqu'en haut 3 à 4 fois par jour. C'est extrêmement difficile comme travail au vue du poids qu'ils portent, de la difficulté de la montée mais également pour l'air qui est difficilement respirable.
+Deux aspects font la réputation de Kawah Iljen. Il y a tout d'abord la lumière bleu mais également, moins drôle, les porteurs de souffre
+Ces porteurs portent 90 kilos de souffre depuis le cratère jusqu'en haut 3 à 4 fois par jour. C'est extrêmement difficile comme travail au vue du poids qu'ils portent, de la difficulté de la montée mais également pour l'air qui est difficilement respirable.
 
 Notre conseil est de prendre un guide pour cette sortie.s D'habitude nous ne sommes pas fans des guides mais nous avons dû faire une petite exception. Plusieurs raisons nous y ont poussés :
 
