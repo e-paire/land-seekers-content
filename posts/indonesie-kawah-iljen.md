@@ -12,17 +12,22 @@ Nicolas Hulot a médiatisé ce volcan et depuis, l'attraction touristique devien
 Deux aspects font la réputation de Kawah Iljen. Il y a tout d'abord la lumière bleu mais également, moins drôle, les porteurs de souffre
 Ces porteurs portent 90 kilos de souffre depuis le cratère jusqu'en haut 3 à 4 fois par jour. C'est extrêmement difficile comme travail au vue du poids qu'ils portent, de la difficulté de la montée mais également pour l'air qui est difficilement respirable.
 
-Notre conseil est de prendre un guide pour cette sortie.s D'habitude nous ne sommes pas fans des guides mais nous avons dû faire une petite exception. Plusieurs raisons nous y ont poussés :
+trame : introduction / quoi faire (chemin d'accès) / comment s'y rendre / où dormir / où manger
+
+# Comment aller voir le volcan Kawah Iljen
+
+Voici comment se décompose notre aventure :
+- trajet Probollingo Banjuwangi
+- nuit à Banjuwangi
+- départ à minuit pour Kawah Iljen
+- retour à 8h au guest house
+
+Notre conseil est de prendre un guide pour cette sortie. D'habitude nous ne sommes pas fans des guides mais nous avons dû faire une petite exception. Plusieurs raisons nous y ont poussés :
 
 Le volcan est difficilement accessible en scooter (surtout que la location de scooters n'est pas recommandé à Java)
-
 L'entrée au sentier de randonnée coûte 315000 rouphies, soit autant que le prix du guide + trajets + masques a gaz. En gros, c'est l'arnaque à l'indonésienne
-
 Vous aurez des masques a gaz fourni par le guide
-
-C'est toujours sympa de discuter avec les guides qui ont toujours beaucoup de choses a dire.
-
-# Comment se rendre au village le plus proche :
+C'est toujours sympa de discuter avec les guides qui ont toujours beaucoup de choses a dire
 
 Nous vous conseillons de dormir dans le village a côté Banjuwangi et de partir avec un guide vers minuit. Il y a environ 1h30 de route, plus l'ascension. Vous serez au cratère vers 4h30.
 
