@@ -1,16 +1,15 @@
 ---
 title: Une semaine en Corse
-date: 2017-06-09T00:00:00+02:00
+date: 2017-06-08T22:00:00.000Z
 author: noushka
 cover: /images/Diamonds.jpg
 tags:
   - Corse
   - Europe
 ---
-
 En juin nous avons passé quelques jours sur l'île de beauté, sur la côte Est dans la ville de Ghisonnacia.
 
-S'y rendre
+**S'y rendre**
 
 Deux choix : bateau ou avion
 
