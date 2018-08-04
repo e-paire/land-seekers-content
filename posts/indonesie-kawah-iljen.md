@@ -5,31 +5,27 @@ tags:
   - Indonesie
 ---
 
-Kawah Iljen est un autre volcan javanais, situé à l'Est de l'île, tout proche de Bali. Ce volcan a la particularité  d'être atypique, il ne ressemble en rien au volcan de Bromo par exemple. La nuit, lorsque le temps s'y prête, il est possible d'observer des flammes bleu. C'est un spectacle impressionnant qu'on n'a pas l'habitude de voir.
+Kawah Iljen est un autre volcan javanais, situé à l'Est de l'île, tout proche de Bali. Ce volcan est atypique et n'a rien à voir avec le mont Bromo. C'est un volcan actif de type explosif. Cela signifie qu'il y a peu coulées de lave mais surtout des des cendres volcaniques. Nicolas Hulot a médiatisé ce volcan en y tournant une émission Ushuaïa et depuis, l'attraction touristique française devient de plus en plus importante. D'ailleurs, tous les locaux connaissent le nom du ministre français.
 
-Nicolas Hulot a médiatisé ce volcan et depuis, l'attraction touristique devient de plus en plus importante. D'ailleurs, tous les locaux connaissent le nom de notre ministre français.
-
-Deux aspects font la réputation de Kawah Iljen. Il y a tout d'abord la lumière bleu mais également, moins drôle, les porteurs de souffre
-Ces porteurs portent 90 kilos de souffre depuis le cratère jusqu'en haut 3 à 4 fois par jour. C'est extrêmement difficile comme travail au vue du poids qu'ils portent, de la difficulté de la montée mais également pour l'air qui est difficilement respirable.
+Deux aspects font la réputation de Kawah Iljen. La nuit, lorsque le temps s'y prête, il est possible d'aller observer le "blue fire" ou lumière bleu en français. Cette lumière, provenant de la combustion du soufre lorsqu'il entre en contact avec l'oxygène, est un phénomène uniquement visible dans la nuit noire et uniquement à Kawah Iljen et en Islande. 
+Le deuxième aspect du volcan, moins drôle, sont les porteurs de soufre. Ils portent 90 kilos de souffre depuis le cratère jusqu'en haut 3 à 4 fois par jour. C'est extrêmement difficile comme travail au vue du poids qu'ils portent, de la difficulté de la montée mais également pour l'air qui est difficilement respirable.
 
 trame : introduction / quoi faire (chemin d'accès) / comment s'y rendre / où dormir / où manger
 
 # Comment aller voir le volcan Kawah Iljen
 
 Voici comment se décompose notre aventure :
-- trajet Probollingo Banjuwangi
+- trajet de Probollingo à Banjuwangi
 - nuit à Banjuwangi
 - départ à minuit pour Kawah Iljen
-- retour à 8h au guest house
+- retour à 8h au guesthouse
 
 Notre conseil est de prendre un guide pour cette sortie. D'habitude nous ne sommes pas fans des guides mais nous avons dû faire une petite exception. Plusieurs raisons nous y ont poussés :
 
-Le volcan est difficilement accessible en scooter (surtout que la location de scooters n'est pas recommandé à Java)
-L'entrée au sentier de randonnée coûte 315000 rouphies, soit autant que le prix du guide + trajets + masques a gaz. En gros, c'est l'arnaque à l'indonésienne
-Vous aurez des masques a gaz fourni par le guide
-C'est toujours sympa de discuter avec les guides qui ont toujours beaucoup de choses a dire
-
-Nous vous conseillons de dormir dans le village a côté Banjuwangi et de partir avec un guide vers minuit. Il y a environ 1h30 de route, plus l'ascension. Vous serez au cratère vers 4h30.
+- Le volcan est difficilement accessible en scooter (surtout que la location de scooters n'est pas recommandé à Java)
+- L'entrée au sentier de randonnée coûte 315000 rouphies (18€75), soit autant que le prix du guide + trajets + masques a gaz. En gros, c'est l'arnaque à l'indonésienne
+- Vous aurez des masques a gaz fourni par le guide
+- C'est toujours sympa de discuter avec les guides qui ont toujours beaucoup de choses a dire
 
 En arrivant de Bali, prenez le ferry jusqu'à Banjuwangi puis monter dans un taxi jusqu'à votre hôtel. Les taxis officiels coûtent 40000 rouphies environ.
 
@@ -68,3 +64,7 @@ Si vous ne souhaitez pas descendre dans le cratère, on vous conseille de vous d
 En bref :
 
 On vous conseille de rester une nuit sur place. Il n'y a pas grand chose d'extraordinaire a faire. Vous pouvez enchaîner avec Bali ou prendre la route pour Bromo.
+
+Où dormir :
+Le village Banjuwangi est un bon point de départ pour l'ascension car la ville est facilement accessible en transport en commun.
+Nous vous conseillons de dormir dans le village a côté Banjuwangi et de partir avec un guide vers minuit. Il y a environ 1h30 de route, plus l'ascension. Vous serez au cratère vers 4h30.
